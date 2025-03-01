@@ -22,5 +22,9 @@
   "copyright": {
     "message": "Copyright © 2025 eLiSCHe, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Wissensdatenbank": {
+    "message": "Wissensdatenbank",
+    "description": "The label of footer link with label=Wissensdatenbank linking to /docs/knowlege-base"
   }
 }

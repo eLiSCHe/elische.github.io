@@ -80,8 +80,8 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
+        {to: '/docs/knowlege-base', label: 'Wissensdatenbank', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/docs/embedded-linux', label: 'Wissensdatenbank', position: 'left'},
         {
           href: 'https://github.com/eLiSCHe/elische.github.io',
           label: 'GitHub',
@@ -106,6 +106,10 @@ const config: Config = {
             {
               label: 'Tutorial',
               to: '/docs/intro',
+            },
+            {
+              label: 'Wissensdatenbank',
+              to: '/docs/knowlege-base',
             },
           ],
         },
