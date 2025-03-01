@@ -81,13 +81,19 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/docs/embedded-linux', label: 'Wissensdatenbank', position: 'left'},
         {
           href: 'https://github.com/eLiSCHe/elische.github.io',
           label: 'GitHub',
           position: 'right',
         },
         {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
           type: 'docsVersionDropdown',
+          position: 'right',
         },
       ],
     },

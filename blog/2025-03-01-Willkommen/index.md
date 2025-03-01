@@ -6,3 +6,5 @@ tags: [eLiSCHe]
 ---
 
 Willkommen bei eLiSCHe!
+
+<!-- truncate -->
