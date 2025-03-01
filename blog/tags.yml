@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+eLiSCHe:
+  label: elische
+  permalink: /elische
+  description: embedded Linux System Construction Helper
+
+Linux:
+  label: linux
+  permalink: /linux
+  description: embedded Linux
